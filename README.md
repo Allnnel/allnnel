@@ -8,11 +8,6 @@
 2. [Программа для просмотра моделей формата OBJ](https://github.com/Allnnel/3DViewer)
 
 
-<div align="left">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW82ajdoY202aWh4bXpxMDduYzg1dXVqdnVhb3FvejV3YXdwNDE2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
-</div>
-
-
 ### Социальные сети:
 
 <div align="left">
