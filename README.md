@@ -5,7 +5,7 @@
 ## JAVA DEVELOPER
 
 <div align="left">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk5aGYxNmZndDhiYml1bXh3aDBnNWJ6OG1kcGpqNHcyNnZubHRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" />
+      <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" />
 </div>
 
 ### Социальные сети:
