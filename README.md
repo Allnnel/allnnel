@@ -12,9 +12,5 @@
 
 <div align="left">
   <a href="https://t.me/allnnel" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/121/121521.png" width="32" height="32" alt="GitHub" />
-    </a>
-        <a href="https://www.github.com/allnnel" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" width="32" height="32" alt="GitHub" />
 </div>
