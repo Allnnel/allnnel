@@ -5,7 +5,7 @@
 ## JAVA DEVELOPER
 
 <div align="left">
-      <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" />
+        <img src="https://w7.pngwing.com/pngs/309/9/png-transparent-telegram-computer-icons-messaging-apps-others-miscellaneous-angle-triangle.png" />
 </div>
 
 ### Социальные сети:
