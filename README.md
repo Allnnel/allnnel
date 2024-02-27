@@ -4,7 +4,7 @@
 
 ## JAVA DEVELOPER
 
-### Социальные сети
+### Социальные сети:
 
 <div align="left">
   <a href="https://t.me/allnnel" target="_blank" rel="noreferrer">
