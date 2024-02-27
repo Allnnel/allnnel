@@ -14,3 +14,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </a>
 </div>
+
+<div align="left">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk5aGYxNmZndDhiYml1bXh3aDBnNWJ6OG1kcGpqNHcyNnZubHRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" width="100" height="100" alt="GitHub" />
+</div>
