@@ -16,5 +16,5 @@
 </div>
 
 <div align="left">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk5aGYxNmZndDhiYml1bXh3aDBnNWJ6OG1kcGpqNHcyNnZubHRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" width="400" height="100" alt="GitHub" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk5aGYxNmZndDhiYml1bXh3aDBnNWJ6OG1kcGpqNHcyNnZubHRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufedtLS3Gnw3LC8/giphy.gif" />
 </div>
