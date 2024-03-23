@@ -10,6 +10,7 @@
 4. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Allnnel/RetailAnalytics)
 5. [Программа для просмотра моделей формата OBJ.](https://github.com/Allnnel/3DViewer)
 6. [Многопользовательский чат.](https://github.com/Allnnel/MultiUserChat)
+7. [Движок форума/доски объявлений.](https://github.com/Allnnel/ForumXpress)
 
 <div align="left">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRpNGc4ZW01NjZxbzFrbjRncTdiZTE3Z2k0czM0MzdnYWNvZjEwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" />
