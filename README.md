@@ -12,7 +12,7 @@
 6. [Многопользовательский чат.](https://github.com/Allnnel/MultiUserChat)
 
 <div align="left">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW82ajdoY202aWh4bXpxMDduYzg1dXVqdnVhb3FvejV3YXdwNDE2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRpNGc4ZW01NjZxbzFrbjRncTdiZTE3Z2k0czM0MzdnYWNvZjEwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" />
 </div>
 
 ### Социальные сети:
