@@ -5,12 +5,13 @@
 
 ## Мои проекты:
 1. [Cервис по предоставлению мобильной связи клиентам.](https://github.com/Allnnel/MobileWave)
-2. [Микросервис для управления пользователями и их балансами.](https://github.com/Allnnel/User-Balance-Service)
-3. [Прокси-сервис безопасности.](https://github.com/Allnnel/SecureRestProxy)
-4. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Allnnel/RetailAnalytics)
-5. [Программа для просмотра моделей формата OBJ.](https://github.com/Allnnel/3DViewer)
-6. [Многопользовательский чат.](https://github.com/Allnnel/MultiUserChat)
-7. [Движок форума/доски объявлений.](https://github.com/Allnnel/ForumXpress)
+2. [Разработка PWA приложения для ЛУКОЙЛ.](https://github.com/Otmetka-X-hackathon/lukoil_backend/tree/main)
+3. [Микросервис для управления пользователями и их балансами.](https://github.com/Allnnel/User-Balance-Service)
+4. [Прокси-сервис безопасности.](https://github.com/Allnnel/SecureRestProxy)
+5. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Allnnel/RetailAnalytics)
+6. [Программа для просмотра моделей формата OBJ.](https://github.com/Allnnel/3DViewer)
+7. [Многопользовательский чат.](https://github.com/Allnnel/MultiUserChat)
+8. [Движок форума/доски объявлений.](https://github.com/Allnnel/ForumXpress)
 
 <div align="left">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRpNGc4ZW01NjZxbzFrbjRncTdiZTE3Z2k0czM0MzdnYWNvZjEwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" />
