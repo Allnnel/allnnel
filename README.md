@@ -8,9 +8,9 @@
 2. [Разработка PWA приложения для ЛУКОЙЛ.](https://github.com/Otmetka-X-hackathon/lukoil_backend/tree/main)
 3. [Прокси-сервис безопасности.](https://github.com/Allnnel/SecureRestProxy)
 4. [Инструмент для анализа данных и оптимизации бизнес-процессов в розничных сетях.](https://github.com/Allnnel/RetailAnalytics)
-5. [Микросервис для управления пользователями и их балансами.](https://github.com/Allnnel/User-Balance-Service)
-6. [Программа для просмотра моделей формата OBJ.](https://github.com/Allnnel/3DViewer)
-7. [Многопользовательский чат.](https://github.com/Allnnel/MultiUserChat)
+5. [Программа для просмотра моделей формата OBJ.](https://github.com/Allnnel/3DViewer)
+6. [Многопользовательский чат.](https://github.com/Allnnel/MultiUserChat)
+7. [Микросервис для управления пользователями и их балансами.](https://github.com/Allnnel/User-Balance-Service)
 8. [Движок форума/доски объявлений.](https://github.com/Allnnel/ForumXpress)
 
 <div align="left">
